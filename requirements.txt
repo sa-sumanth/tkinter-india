@@ -1,0 +1,4 @@
+tkintermapview>=1.18
+more_itertools>=9.0.0
+geocoder>=1.38.1
+pandas>=1.2.4
