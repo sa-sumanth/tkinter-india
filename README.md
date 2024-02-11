@@ -1,7 +1,7 @@
 Project India
 
-A small tkinter application to:
-1. Find the capital of a start and vice versa
+A tkinter application to:
+1. Find the capital of a state and vice versa
 2. Search table with all state data
 3. Find information about a city
 4. Find distance between two cities
